@@ -16,5 +16,6 @@ data class Meal(
     @ColumnInfo (name = "instructions") val instructions: String?,
 
     //add col info later
+//creating database
 
 )
